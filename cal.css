@@ -1,0 +1,30 @@
+*{
+	margin: 0px;
+	padding:0px;
+}
+
+div{
+   width:670px;
+}
+
+input[type="button"]{
+	font-size: 30px;
+    width:130px;
+    height: 60px;
+    margin-right:3px;
+    margin-top:3px;
+}
+
+input[type="text"]{
+	font-size: 40px;
+	width: 538px;
+	height:40px;
+	text-align: right;
+}
+
+#div0{
+     
+	left:200px;
+	top:150px;
+	position: relative;
+}
